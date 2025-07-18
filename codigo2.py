@@ -1,3 +1,4 @@
 name = "Violeta"
 lastname = "Ponce"
-print(f"hola {name} {lastname}")
+amor = "novia de Abel"
+print(f"hola {name} {lastname} sos la {amor}")
